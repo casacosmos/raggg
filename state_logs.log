@@ -1,0 +1,560 @@
+2024-10-30 17:58:50,611 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 17:58:50,613 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 17:58:50,622 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-10-30 17:58:50,689 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 17:58:50,689 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 17:58:50,922 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/main HTTP/11" 200 1920
+2024-10-30 17:58:51,013 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/discussions?p=0 HTTP/11" 200 1434
+2024-10-30 17:58:51,063 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 17:58:51,166 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/refs%2Fpr%2F3 HTTP/11" 200 2885
+2024-10-30 17:58:51,257 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/11" 404 0
+2024-10-30 17:58:51,535 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/11" 302 0
+2024-10-30 17:59:01,302 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 17:59:01,303 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 17:59:01,378 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 17:59:01,380 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 17:59:01,382 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/11" 404 0
+2024-10-30 17:59:01,471 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/11" 302 0
+2024-10-30 17:59:01,571 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 17:59:41,010 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 17:59:41,012 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 17:59:41,021 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/11" 404 0
+2024-10-30 17:59:41,125 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/11" 302 0
+2024-10-30 17:59:41,163 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 17:59:41,164 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 17:59:41,346 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 17:59:50,291 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 17:59:50,293 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 17:59:50,320 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/main HTTP/11" 200 1920
+2024-10-30 17:59:50,424 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 17:59:50,425 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 17:59:50,436 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/discussions?p=0 HTTP/11" 200 1434
+2024-10-30 17:59:50,537 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/refs%2Fpr%2F3 HTTP/11" 200 2885
+2024-10-30 17:59:50,631 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/11" 404 0
+2024-10-30 17:59:50,654 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 17:59:50,717 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/11" 302 0
+2024-10-30 18:00:04,006 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:00:04,007 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:00:04,019 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/main HTTP/11" 200 1920
+2024-10-30 18:00:04,047 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-10-30 18:00:04,085 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:00:04,086 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:00:04,130 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/discussions?p=0 HTTP/11" 200 1434
+2024-10-30 18:00:04,251 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/refs%2Fpr%2F3 HTTP/11" 200 2885
+2024-10-30 18:00:04,360 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/11" 404 0
+2024-10-30 18:00:04,465 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/11" 302 0
+2024-10-30 18:00:04,595 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 18:00:12,216 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:00:12,218 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:00:12,310 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/11" 302 0
+2024-10-30 18:00:12,330 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:00:12,332 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:00:12,476 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 18:00:20,360 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:00:20,362 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:00:20,387 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-10-30 18:00:20,388 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/main HTTP/11" 200 1920
+2024-10-30 18:00:20,448 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:00:20,449 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:00:20,559 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/discussions?p=0 HTTP/11" 200 1434
+2024-10-30 18:00:20,695 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/refs%2Fpr%2F3 HTTP/11" 200 2885
+2024-10-30 18:00:20,936 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/11" 404 0
+2024-10-30 18:00:20,936 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 18:00:21,048 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/11" 302 0
+2024-10-30 18:01:06,547 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:01:06,548 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:01:06,566 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-10-30 18:01:06,598 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/main HTTP/11" 200 1920
+2024-10-30 18:01:06,632 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:01:06,633 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:01:06,690 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/discussions?p=0 HTTP/11" 200 1434
+2024-10-30 18:01:06,797 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/refs%2Fpr%2F3 HTTP/11" 200 2885
+2024-10-30 18:01:06,912 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/11" 404 0
+2024-10-30 18:01:07,014 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/11" 302 0
+2024-10-30 18:01:07,205 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 18:01:25,009 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:01:25,012 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:01:25,095 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:01:25,097 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:01:25,211 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:01:25,212 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:01:25,278 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:01:25,279 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:01:34,103 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:01:34,105 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:01:34,198 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:01:34,199 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:01:34,206 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/refs%2Fpr%2F3 HTTP/11" 200 2885
+2024-10-30 18:01:34,292 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:01:34,293 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:01:34,301 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/11" 404 0
+2024-10-30 18:01:34,368 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:01:34,369 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:01:34,382 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 18:01:34,416 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/11" 302 0
+2024-10-30 18:01:41,689 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:01:41,690 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:01:41,735 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-10-30 18:01:41,761 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:01:41,761 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:01:41,843 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:01:41,844 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:01:41,893 - DEBUG - https://safetensors-convert.hf.space:443 "GET /call/run/52b87872f6b74b6a927c8a02cab938d5 HTTP/11" 200 None
+2024-10-30 18:01:41,914 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:01:41,914 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:01:42,314 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 18:01:50,332 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:01:50,334 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:01:50,366 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-10-30 18:01:50,376 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/main HTTP/11" 200 1920
+2024-10-30 18:01:50,410 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:01:50,411 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:01:50,476 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/discussions?p=0 HTTP/11" 200 1434
+2024-10-30 18:01:50,487 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:01:50,488 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:01:50,550 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:01:50,551 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:01:50,570 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/refs%2Fpr%2F3 HTTP/11" 200 2885
+2024-10-30 18:01:50,677 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/11" 404 0
+2024-10-30 18:01:50,771 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 18:01:50,782 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/11" 302 0
+2024-10-30 18:01:51,062 - INFO - Graph created and compiled with memory checkpointer.
+2024-10-30 18:01:51,072 - DEBUG - Filtered messages: ['hi']
+2024-10-30 18:01:51,073 - INFO - Added system message: You are a helpful coding assistant with access to documentation about LangGraph and LangChain.
+2024-10-30 18:01:51,090 - DEBUG - Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'content': 'You are a helpful coding assistant with access to documentation about LangGraph and LangChain.', 'role': 'system'}, {'content': 'hi', 'role': 'user'}], 'model': 'gpt-4-0125-preview', 'n': 1, 'stream': True, 'temperature': 0.0, 'tools': [{'type': 'function', 'function': {'name': 'retrieve_docs', 'description': 'Retrieves documents based on the provided query and returns a ToolMessage.\n\nArgs:\n    query (str): The search query for retrieving documents.\n\nReturns:\n    ToolMessage: A message containing the retrieved document content.', 'parameters': {'properties': {'query': {'type': 'string'}}, 'required': ['query'], 'type': 'object'}}}]}}
+2024-10-30 18:01:51,091 - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=None socket_options=None
+2024-10-30 18:01:51,398 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x7f33de233490>
+2024-10-30 18:01:51,399 - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x7f33debb5fc0> server_hostname='api.openai.com' timeout=None
+2024-10-30 18:01:51,454 - DEBUG - start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x7f33de232f20>
+2024-10-30 18:01:51,455 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2024-10-30 18:01:51,455 - DEBUG - send_request_headers.complete
+2024-10-30 18:01:51,456 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2024-10-30 18:01:51,456 - DEBUG - send_request_body.complete
+2024-10-30 18:01:51,456 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2024-10-30 18:01:52,003 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Wed, 30 Oct 2024 22:01:51 GMT'), (b'Content-Type', b'text/event-stream; charset=utf-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-6mqwgmpqixetpcxbmd3dnosa'), (b'openai-processing-ms', b'355'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'500'), (b'x-ratelimit-limit-tokens', b'450000'), (b'x-ratelimit-remaining-requests', b'499'), (b'x-ratelimit-remaining-tokens', b'449957'), (b'x-ratelimit-reset-requests', b'120ms'), (b'x-ratelimit-reset-tokens', b'5ms'), (b'x-request-id', b'req_f408861898f0e5491170794c25a48b2c'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=VhupiMVvMF2pGEKUN7WvhwTU9JZ3EhYeZUnxx78CGPc-1730325711-1.0.1.1-GoM5ITPMbZo6fDTJnUMo7anjBkAbqWccXBTErK8HM95s69am_csnbZYlLHxShayzbu.1RocvXGKcOL7vAKhV4w; path=/; expires=Wed, 30-Oct-24 22:31:51 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=__Vi70kXR_8QQWfcwpZppHgo37BzH4xnQd.V4Gh4.Y0-1730325711994-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'8daeafb0dfb5a566-MIA'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2024-10-30 18:01:52,004 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 18:01:52,004 - DEBUG - HTTP Request: POST https://api.openai.com/v1/chat/completions "200 OK"
+2024-10-30 18:01:52,005 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2024-10-30 18:01:52,388 - DEBUG - receive_response_body.complete
+2024-10-30 18:01:52,389 - DEBUG - response_closed.started
+2024-10-30 18:01:52,389 - DEBUG - response_closed.complete
+2024-10-30 18:01:52,390 - INFO - AIMessage generated: Hello! How can I assist you today?, tool calls: []
+2024-10-30 18:01:52,392 - DEBUG - Last message in state: Hello! How can I assist you today?, type: AIMessage
+2024-10-30 18:01:52,392 - INFO - No tool call detected; ending execution.
+2024-10-30 18:01:52,393 - DEBUG - Raw Message from LangChain: content='Hello! How can I assist you today?' additional_kwargs={} response_metadata={'finish_reason': 'stop', 'model_name': 'gpt-4-0125-preview'} id='run-23220ece-0ed0-4bd2-97bf-4672cf41fa71-0'
+2024-10-30 18:01:52,393 - INFO - Structured Response: {'node': 'agent', 'message': {'content': 'Hello! How can I assist you today?', 'type': 'AIMessage', 'additional_kwargs': {'type': 'AIMessage'}}}
+2024-10-30 18:02:06,550 - INFO - Graph created and compiled with memory checkpointer.
+2024-10-30 18:02:06,555 - DEBUG - Filtered messages: ['hi', 'Hello! How can I assist you today?', 'what are the different types of langgraph streaming?']
+2024-10-30 18:02:06,556 - INFO - Added system message: You are a helpful coding assistant with access to documentation about LangGraph and LangChain.
+2024-10-30 18:02:06,570 - DEBUG - Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'content': 'You are a helpful coding assistant with access to documentation about LangGraph and LangChain.', 'role': 'system'}, {'content': 'hi', 'role': 'user'}, {'content': 'Hello! How can I assist you today?', 'role': 'assistant'}, {'content': 'what are the different types of langgraph streaming?', 'role': 'user'}], 'model': 'gpt-4-0125-preview', 'n': 1, 'stream': True, 'temperature': 0.0, 'tools': [{'type': 'function', 'function': {'name': 'retrieve_docs', 'description': 'Retrieves documents based on the provided query and returns a ToolMessage.\n\nArgs:\n    query (str): The search query for retrieving documents.\n\nReturns:\n    ToolMessage: A message containing the retrieved document content.', 'parameters': {'properties': {'query': {'type': 'string'}}, 'required': ['query'], 'type': 'object'}}}]}}
+2024-10-30 18:02:06,572 - DEBUG - close.started
+2024-10-30 18:02:06,572 - DEBUG - close.complete
+2024-10-30 18:02:06,573 - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=None socket_options=None
+2024-10-30 18:02:06,670 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x7f33de2745e0>
+2024-10-30 18:02:06,670 - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x7f33debb5fc0> server_hostname='api.openai.com' timeout=None
+2024-10-30 18:02:06,722 - DEBUG - start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x7f33de2746d0>
+2024-10-30 18:02:06,722 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2024-10-30 18:02:06,723 - DEBUG - send_request_headers.complete
+2024-10-30 18:02:06,723 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2024-10-30 18:02:06,723 - DEBUG - send_request_body.complete
+2024-10-30 18:02:06,724 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2024-10-30 18:02:07,540 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Wed, 30 Oct 2024 22:02:07 GMT'), (b'Content-Type', b'text/event-stream; charset=utf-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-6mqwgmpqixetpcxbmd3dnosa'), (b'openai-processing-ms', b'605'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'500'), (b'x-ratelimit-limit-tokens', b'450000'), (b'x-ratelimit-remaining-requests', b'499'), (b'x-ratelimit-remaining-tokens', b'449933'), (b'x-ratelimit-reset-requests', b'120ms'), (b'x-ratelimit-reset-tokens', b'8ms'), (b'x-request-id', b'req_316cf97676fb14c8d3d37545303ba22c'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'8daeb0103fdbd9d5-MIA'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2024-10-30 18:02:07,541 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 18:02:07,541 - DEBUG - HTTP Request: POST https://api.openai.com/v1/chat/completions "200 OK"
+2024-10-30 18:02:07,542 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2024-10-30 18:02:07,914 - DEBUG - receive_response_body.complete
+2024-10-30 18:02:07,914 - DEBUG - response_closed.started
+2024-10-30 18:02:07,914 - DEBUG - response_closed.complete
+2024-10-30 18:02:07,915 - INFO - AIMessage generated: , tool calls: [{'name': 'retrieve_docs', 'args': {'query': 'types of LangGraph streaming'}, 'id': 'call_6ej4J3je7ePfaugcq81lQvwx', 'type': 'tool_call'}]
+2024-10-30 18:02:08,083 - INFO - Retrieving documents for query: types of LangGraph streaming
+2024-10-30 18:02:08,084 - ERROR - Error in stream_agent_response: 'VectorStoreRetriever' object is not callable
+2024-10-30 18:03:26,830 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:03:26,831 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:03:26,873 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-10-30 18:03:26,911 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:03:26,912 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:03:26,967 - DEBUG - https://safetensors-convert.hf.space:443 "GET /call/run/70f6135f3f8c43148122393501df1c25 HTTP/11" 200 None
+2024-10-30 18:03:26,995 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:03:26,996 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:03:27,063 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:03:27,064 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:03:27,161 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/main HTTP/11" 200 1920
+2024-10-30 18:03:27,265 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/discussions?p=0 HTTP/11" 200 1434
+2024-10-30 18:03:27,342 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 18:03:27,475 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/refs%2Fpr%2F3 HTTP/11" 200 2885
+2024-10-30 18:03:27,574 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/11" 404 0
+2024-10-30 18:03:27,662 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/11" 302 0
+2024-10-30 18:03:36,382 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:03:36,384 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:03:36,414 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-10-30 18:03:36,440 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/main HTTP/11" 200 1920
+2024-10-30 18:03:36,459 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:03:36,460 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:03:36,543 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:03:36,544 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:03:36,577 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/discussions?p=0 HTTP/11" 200 1434
+2024-10-30 18:03:36,622 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:03:36,623 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:03:36,765 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/refs%2Fpr%2F3 HTTP/11" 200 2885
+2024-10-30 18:03:36,789 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 18:03:36,862 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/11" 404 0
+2024-10-30 18:03:37,075 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/11" 302 0
+2024-10-30 18:03:49,166 - INFO - Graph created and compiled with memory checkpointer.
+2024-10-30 18:03:49,172 - DEBUG - Filtered messages: ['hi']
+2024-10-30 18:03:49,173 - INFO - Added system message: You are a helpful coding assistant with access to documentation about LangGraph and LangChain.
+2024-10-30 18:03:49,194 - DEBUG - Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'content': 'You are a helpful coding assistant with access to documentation about LangGraph and LangChain.', 'role': 'system'}, {'content': 'hi', 'role': 'user'}], 'model': 'gpt-4-0125-preview', 'n': 1, 'stream': True, 'temperature': 0.0, 'tools': [{'type': 'function', 'function': {'name': 'retrieve_docs', 'description': 'Retrieves documents based on the provided query and returns a ToolMessage.\n\nArgs:\n    query (str): The search query for retrieving documents.\n\nReturns:\n    ToolMessage: A message containing the retrieved document content.', 'parameters': {'properties': {'query': {'type': 'string'}}, 'required': ['query'], 'type': 'object'}}}]}}
+2024-10-30 18:03:49,195 - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=None socket_options=None
+2024-10-30 18:03:49,324 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x7f72205c38e0>
+2024-10-30 18:03:49,324 - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x7f723d838b40> server_hostname='api.openai.com' timeout=None
+2024-10-30 18:03:49,382 - DEBUG - start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x7f72205c3370>
+2024-10-30 18:03:49,382 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2024-10-30 18:03:49,384 - DEBUG - send_request_headers.complete
+2024-10-30 18:03:49,384 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2024-10-30 18:03:49,385 - DEBUG - send_request_body.complete
+2024-10-30 18:03:49,385 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2024-10-30 18:03:49,893 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Wed, 30 Oct 2024 22:03:49 GMT'), (b'Content-Type', b'text/event-stream; charset=utf-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-6mqwgmpqixetpcxbmd3dnosa'), (b'openai-processing-ms', b'344'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'500'), (b'x-ratelimit-limit-tokens', b'450000'), (b'x-ratelimit-remaining-requests', b'499'), (b'x-ratelimit-remaining-tokens', b'449957'), (b'x-ratelimit-reset-requests', b'120ms'), (b'x-ratelimit-reset-tokens', b'5ms'), (b'x-request-id', b'req_295c80580c003ddf2186d426ad273abf'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=9qrlrcgnkbQDZwki6EsERy0q6PcP_4TuM8_K2ixnYYY-1730325829-1.0.1.1-.zgze7LYxmVb39Ga6joYJT.vRo8vCIKpoUIjYE29exdU2UjsC.d5HlY.4BJCThtxp_rY6V.YEt8eGwExIKXBVA; path=/; expires=Wed, 30-Oct-24 22:33:49 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=8fVhPedz6gIYlmV.vwIgpoSs0UyswvqpBcRgff_3YnU-1730325829880-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'8daeb291df8a4964-MIA'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2024-10-30 18:03:49,894 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 18:03:49,894 - DEBUG - HTTP Request: POST https://api.openai.com/v1/chat/completions "200 OK"
+2024-10-30 18:03:49,894 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2024-10-30 18:03:50,359 - DEBUG - receive_response_body.complete
+2024-10-30 18:03:50,359 - DEBUG - response_closed.started
+2024-10-30 18:03:50,360 - DEBUG - response_closed.complete
+2024-10-30 18:03:50,361 - INFO - AIMessage generated: Hello! How can I assist you today?, tool calls: []
+2024-10-30 18:03:50,362 - DEBUG - Last message in state: Hello! How can I assist you today?, type: AIMessage
+2024-10-30 18:03:50,363 - INFO - No tool call detected; ending execution.
+2024-10-30 18:03:50,366 - DEBUG - Raw Message from LangChain: content='Hello! How can I assist you today?' additional_kwargs={} response_metadata={'finish_reason': 'stop', 'model_name': 'gpt-4-0125-preview'} id='run-24d7ee53-52aa-4973-8184-dd9ca072f736-0'
+2024-10-30 18:03:50,366 - INFO - Structured Response: {'node': 'agent', 'message': {'content': 'Hello! How can I assist you today?', 'type': 'AIMessage', 'additional_kwargs': {'type': 'AIMessage'}}}
+2024-10-30 18:03:51,371 - INFO - Graph created and compiled with memory checkpointer.
+2024-10-30 18:03:51,374 - DEBUG - Filtered messages: ['hi', 'Hello! How can I assist you today?', 'what are the different types of langgraph streaming?']
+2024-10-30 18:03:51,376 - INFO - Added system message: You are a helpful coding assistant with access to documentation about LangGraph and LangChain.
+2024-10-30 18:03:51,388 - DEBUG - Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'content': 'You are a helpful coding assistant with access to documentation about LangGraph and LangChain.', 'role': 'system'}, {'content': 'hi', 'role': 'user'}, {'content': 'Hello! How can I assist you today?', 'role': 'assistant'}, {'content': 'what are the different types of langgraph streaming?', 'role': 'user'}], 'model': 'gpt-4-0125-preview', 'n': 1, 'stream': True, 'temperature': 0.0, 'tools': [{'type': 'function', 'function': {'name': 'retrieve_docs', 'description': 'Retrieves documents based on the provided query and returns a ToolMessage.\n\nArgs:\n    query (str): The search query for retrieving documents.\n\nReturns:\n    ToolMessage: A message containing the retrieved document content.', 'parameters': {'properties': {'query': {'type': 'string'}}, 'required': ['query'], 'type': 'object'}}}]}}
+2024-10-30 18:03:51,390 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2024-10-30 18:03:51,391 - DEBUG - send_request_headers.complete
+2024-10-30 18:03:51,391 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2024-10-30 18:03:51,391 - DEBUG - send_request_body.complete
+2024-10-30 18:03:51,392 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2024-10-30 18:03:52,169 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Wed, 30 Oct 2024 22:03:52 GMT'), (b'Content-Type', b'text/event-stream; charset=utf-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-6mqwgmpqixetpcxbmd3dnosa'), (b'openai-processing-ms', b'622'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'500'), (b'x-ratelimit-limit-tokens', b'450000'), (b'x-ratelimit-remaining-requests', b'499'), (b'x-ratelimit-remaining-tokens', b'449933'), (b'x-ratelimit-reset-requests', b'120ms'), (b'x-ratelimit-reset-tokens', b'8ms'), (b'x-request-id', b'req_f1234b04ba8c86514fc82aaafab0e7c9'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'8daeb29e6c274964-MIA'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2024-10-30 18:03:52,170 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 18:03:52,170 - DEBUG - HTTP Request: POST https://api.openai.com/v1/chat/completions "200 OK"
+2024-10-30 18:03:52,171 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2024-10-30 18:03:52,406 - DEBUG - receive_response_body.complete
+2024-10-30 18:03:52,406 - DEBUG - response_closed.started
+2024-10-30 18:03:52,407 - DEBUG - response_closed.complete
+2024-10-30 18:03:52,408 - INFO - AIMessage generated: , tool calls: [{'name': 'retrieve_docs', 'args': {'query': 'LangGraph streaming types'}, 'id': 'call_41513SbX1UIb8GM1sBdh8kNo', 'type': 'tool_call'}]
+2024-10-30 18:03:52,609 - INFO - Retrieving documents for query: LangGraph streaming types
+2024-10-30 18:03:52,789 - DEBUG - Starting component PersistentLocalHnswSegment
+2024-10-30 18:03:52,816 - ERROR - Error in stream_agent_response: 'Document' object is not subscriptable
+2024-10-30 18:03:52,928 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 18:04:54,874 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:04:54,875 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:04:54,920 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-10-30 18:04:54,922 - DEBUG - https://safetensors-convert.hf.space:443 "GET /call/run/8d82cbc3720e4f358313edb90f76967f HTTP/11" 200 None
+2024-10-30 18:04:54,948 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:04:54,948 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:04:55,034 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:04:55,035 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:04:55,108 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/main HTTP/11" 200 1920
+2024-10-30 18:04:55,113 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:04:55,114 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:04:55,221 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/discussions?p=0 HTTP/11" 200 1434
+2024-10-30 18:04:55,341 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/refs%2Fpr%2F3 HTTP/11" 200 2885
+2024-10-30 18:04:55,529 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 18:04:55,530 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/11" 404 0
+2024-10-30 18:04:55,642 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/11" 302 0
+2024-10-30 18:05:07,835 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:05:07,836 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:05:07,851 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/discussions?p=0 HTTP/11" 200 1434
+2024-10-30 18:05:07,911 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:05:07,913 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:05:08,005 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/refs%2Fpr%2F3 HTTP/11" 200 2885
+2024-10-30 18:05:08,027 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:05:08,029 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:05:08,101 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/11" 404 0
+2024-10-30 18:05:08,111 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:05:08,112 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:05:08,223 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/11" 302 0
+2024-10-30 18:05:08,226 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 18:05:17,276 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:05:17,280 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:05:17,340 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/refs%2Fpr%2F3 HTTP/11" 200 2885
+2024-10-30 18:05:17,395 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:05:17,397 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:05:17,425 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/11" 404 0
+2024-10-30 18:05:17,486 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:05:17,487 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:05:17,515 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/11" 302 0
+2024-10-30 18:05:17,558 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:05:17,559 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:05:17,610 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 18:06:06,086 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:06:06,087 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:06:06,127 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-10-30 18:06:06,134 - DEBUG - https://safetensors-convert.hf.space:443 "GET /call/run/8b8a42edf8834e94834ed860951cfb16 HTTP/11" 200 None
+2024-10-30 18:06:06,160 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:06:06,161 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:06:06,243 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:06:06,244 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:06:06,246 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/main HTTP/11" 200 1920
+2024-10-30 18:06:06,316 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:06:06,317 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:06:06,373 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/discussions?p=0 HTTP/11" 200 1434
+2024-10-30 18:06:06,478 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/refs%2Fpr%2F3 HTTP/11" 200 2885
+2024-10-30 18:06:06,577 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/11" 404 0
+2024-10-30 18:06:06,748 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 18:06:06,754 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/11" 302 0
+2024-10-30 18:06:13,869 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:06:13,870 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:06:13,953 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/main HTTP/11" 200 1920
+2024-10-30 18:06:13,959 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:06:13,960 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:06:14,042 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:06:14,043 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:06:14,048 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/discussions?p=0 HTTP/11" 200 1434
+2024-10-30 18:06:14,113 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:06:14,114 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:06:14,154 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/refs%2Fpr%2F3 HTTP/11" 200 2885
+2024-10-30 18:06:14,266 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 18:06:14,267 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/11" 404 0
+2024-10-30 18:06:14,388 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/11" 302 0
+2024-10-30 18:06:21,530 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:06:21,531 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:06:21,590 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-10-30 18:06:21,605 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:06:21,606 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:06:21,654 - DEBUG - https://safetensors-convert.hf.space:443 "GET /call/run/7911766ce4fe47269399aa4a160676fe HTTP/11" 200 None
+2024-10-30 18:06:21,683 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:06:21,684 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:06:21,752 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:06:21,754 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:06:21,821 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/main HTTP/11" 200 1920
+2024-10-30 18:06:22,021 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/discussions?p=0 HTTP/11" 200 1434
+2024-10-30 18:06:22,048 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 18:06:22,324 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/refs%2Fpr%2F3 HTTP/11" 200 2885
+2024-10-30 18:06:22,430 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/11" 404 0
+2024-10-30 18:06:22,589 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/11" 302 0
+2024-10-30 18:06:49,649 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:06:49,650 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:06:49,672 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-10-30 18:06:49,737 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:06:49,738 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:06:49,754 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/main HTTP/11" 200 1920
+2024-10-30 18:06:49,839 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:06:49,840 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:06:49,850 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/discussions?p=0 HTTP/11" 200 1434
+2024-10-30 18:06:49,937 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:06:49,939 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:06:49,955 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/refs%2Fpr%2F3 HTTP/11" 200 2885
+2024-10-30 18:06:50,126 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 18:06:50,524 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/11" 404 0
+2024-10-30 18:06:50,615 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/11" 302 0
+2024-10-30 18:06:59,694 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:06:59,695 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:06:59,782 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:06:59,783 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:06:59,859 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:06:59,860 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:06:59,915 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:06:59,916 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:07:00,026 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 18:07:04,837 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/main HTTP/11" 200 1920
+2024-10-30 18:07:04,958 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/discussions?p=0 HTTP/11" 200 1434
+2024-10-30 18:07:05,067 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/refs%2Fpr%2F3 HTTP/11" 200 2885
+2024-10-30 18:07:05,156 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/11" 404 0
+2024-10-30 18:07:05,242 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/11" 302 0
+2024-10-30 18:07:07,662 - INFO - Graph created and compiled with memory checkpointer.
+2024-10-30 18:07:07,669 - DEBUG - Filtered messages: ['hi']
+2024-10-30 18:07:07,670 - INFO - Added system message: You are a helpful coding assistant with access to documentation about LangGraph and LangChain.
+2024-10-30 18:07:07,687 - DEBUG - Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'content': 'You are a helpful coding assistant with access to documentation about LangGraph and LangChain.', 'role': 'system'}, {'content': 'hi', 'role': 'user'}], 'model': 'gpt-4-0125-preview', 'n': 1, 'stream': True, 'temperature': 0.0, 'tools': [{'type': 'function', 'function': {'name': 'retrieve_docs', 'description': 'Retrieves documents based on the provided query and returns a ToolMessage.\n\nArgs:\n    query (str): The search query for retrieving documents.\n\nReturns:\n    ToolMessage: A message containing the retrieved document content.', 'parameters': {'properties': {'query': {'type': 'string'}}, 'required': ['query'], 'type': 'object'}}}]}}
+2024-10-30 18:07:07,689 - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=None socket_options=None
+2024-10-30 18:07:07,812 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x7f66d180f310>
+2024-10-30 18:07:07,812 - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x7f66d2fa34c0> server_hostname='api.openai.com' timeout=None
+2024-10-30 18:07:07,868 - DEBUG - start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x7f66d180eda0>
+2024-10-30 18:07:07,868 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2024-10-30 18:07:07,869 - DEBUG - send_request_headers.complete
+2024-10-30 18:07:07,869 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2024-10-30 18:07:07,870 - DEBUG - send_request_body.complete
+2024-10-30 18:07:07,870 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2024-10-30 18:07:08,506 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Wed, 30 Oct 2024 22:07:08 GMT'), (b'Content-Type', b'text/event-stream; charset=utf-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-6mqwgmpqixetpcxbmd3dnosa'), (b'openai-processing-ms', b'330'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'500'), (b'x-ratelimit-limit-tokens', b'450000'), (b'x-ratelimit-remaining-requests', b'499'), (b'x-ratelimit-remaining-tokens', b'449957'), (b'x-ratelimit-reset-requests', b'120ms'), (b'x-ratelimit-reset-tokens', b'5ms'), (b'x-request-id', b'req_468fc64c738ccf247675e05a22cea139'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=kb8JSAgQKkxGC9C5Ey.gUZrwKwfFNMWxz82CwpEBqkA-1730326028-1.0.1.1-D38LHlOkUlGFks8tBih2sCAPX0.Rhj2lrXt8rDqrD_yIImoHz9HvMiW5RqiDLLWSDFMbJnyNkSfBoWt78MSRbQ; path=/; expires=Wed, 30-Oct-24 22:37:08 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=oiNqMLeA1Bd7iJ1JpGWwVQ8wLpWAo0fFUYLksmvkX.o-1730326028381-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'8daeb76a5af9a680-MIA'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2024-10-30 18:07:08,508 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 18:07:08,508 - DEBUG - HTTP Request: POST https://api.openai.com/v1/chat/completions "200 OK"
+2024-10-30 18:07:08,509 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2024-10-30 18:07:08,818 - DEBUG - receive_response_body.complete
+2024-10-30 18:07:08,819 - DEBUG - response_closed.started
+2024-10-30 18:07:08,819 - DEBUG - response_closed.complete
+2024-10-30 18:07:08,821 - INFO - AIMessage generated: Hello! How can I assist you today?, tool calls: []
+2024-10-30 18:07:08,824 - DEBUG - Last message in state: Hello! How can I assist you today?, type: AIMessage
+2024-10-30 18:07:08,824 - INFO - No tool call detected; ending execution.
+2024-10-30 18:07:08,826 - DEBUG - Raw Message from LangChain: content='Hello! How can I assist you today?' additional_kwargs={} response_metadata={'finish_reason': 'stop', 'model_name': 'gpt-4-0125-preview'} id='run-282981c0-2203-4cfb-a4d4-dc1cb722fa2c-0'
+2024-10-30 18:07:08,826 - INFO - Structured Response: {'node': 'agent', 'message': {'content': 'Hello! How can I assist you today?', 'type': 'AIMessage', 'additional_kwargs': {'type': 'AIMessage'}}}
+2024-10-30 18:07:09,931 - INFO - Graph created and compiled with memory checkpointer.
+2024-10-30 18:07:09,937 - DEBUG - Filtered messages: ['hi', 'Hello! How can I assist you today?', 'what are the different types of langgraph streaming?']
+2024-10-30 18:07:09,937 - INFO - Added system message: You are a helpful coding assistant with access to documentation about LangGraph and LangChain.
+2024-10-30 18:07:09,951 - DEBUG - Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'content': 'You are a helpful coding assistant with access to documentation about LangGraph and LangChain.', 'role': 'system'}, {'content': 'hi', 'role': 'user'}, {'content': 'Hello! How can I assist you today?', 'role': 'assistant'}, {'content': 'what are the different types of langgraph streaming?', 'role': 'user'}], 'model': 'gpt-4-0125-preview', 'n': 1, 'stream': True, 'temperature': 0.0, 'tools': [{'type': 'function', 'function': {'name': 'retrieve_docs', 'description': 'Retrieves documents based on the provided query and returns a ToolMessage.\n\nArgs:\n    query (str): The search query for retrieving documents.\n\nReturns:\n    ToolMessage: A message containing the retrieved document content.', 'parameters': {'properties': {'query': {'type': 'string'}}, 'required': ['query'], 'type': 'object'}}}]}}
+2024-10-30 18:07:09,952 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2024-10-30 18:07:09,953 - DEBUG - send_request_headers.complete
+2024-10-30 18:07:09,954 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2024-10-30 18:07:09,955 - DEBUG - send_request_body.complete
+2024-10-30 18:07:09,955 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2024-10-30 18:07:11,478 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Wed, 30 Oct 2024 22:07:11 GMT'), (b'Content-Type', b'text/event-stream; charset=utf-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-6mqwgmpqixetpcxbmd3dnosa'), (b'openai-processing-ms', b'1294'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'500'), (b'x-ratelimit-limit-tokens', b'450000'), (b'x-ratelimit-remaining-requests', b'499'), (b'x-ratelimit-remaining-tokens', b'449933'), (b'x-ratelimit-reset-requests', b'120ms'), (b'x-ratelimit-reset-tokens', b'8ms'), (b'x-request-id', b'req_370d8faca3847216568e5f208394f145'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'8daeb7775bb8a680-MIA'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2024-10-30 18:07:11,479 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 18:07:11,479 - DEBUG - HTTP Request: POST https://api.openai.com/v1/chat/completions "200 OK"
+2024-10-30 18:07:11,479 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2024-10-30 18:07:11,726 - DEBUG - receive_response_body.complete
+2024-10-30 18:07:11,726 - DEBUG - response_closed.started
+2024-10-30 18:07:11,727 - DEBUG - response_closed.complete
+2024-10-30 18:07:11,729 - INFO - AIMessage generated: , tool calls: [{'name': 'retrieve_docs', 'args': {'query': 'LangGraph streaming types'}, 'id': 'call_MLdOU05lq5sCImNIhFHsKVmh', 'type': 'tool_call'}]
+2024-10-30 18:07:11,731 - ERROR - Error in stream_agent_response: name 'invoke' is not defined
+2024-10-30 18:07:49,462 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:07:49,463 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:07:49,476 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-10-30 18:07:49,498 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/main HTTP/11" 200 1920
+2024-10-30 18:07:49,540 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:07:49,540 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:07:49,594 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/discussions?p=0 HTTP/11" 200 1434
+2024-10-30 18:07:49,649 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:07:49,650 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:07:49,719 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/refs%2Fpr%2F3 HTTP/11" 200 2885
+2024-10-30 18:07:49,770 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:07:49,771 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:07:49,810 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/11" 404 0
+2024-10-30 18:07:49,908 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/11" 302 0
+2024-10-30 18:07:49,936 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 18:08:03,714 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:08:03,715 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:08:03,774 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:08:03,775 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:08:03,805 - DEBUG - https://safetensors-convert.hf.space:443 "GET /call/run/4eea7be06e7f4180a3ffae42d2e74889 HTTP/11" 200 None
+2024-10-30 18:08:03,839 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:08:03,840 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:08:03,855 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-10-30 18:08:03,905 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:08:03,906 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:08:03,933 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/main HTTP/11" 200 1920
+2024-10-30 18:08:04,038 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/discussions?p=0 HTTP/11" 200 1434
+2024-10-30 18:08:04,194 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/refs%2Fpr%2F3 HTTP/11" 200 2885
+2024-10-30 18:08:04,264 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 18:08:04,291 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/11" 404 0
+2024-10-30 18:08:04,414 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/11" 302 0
+2024-10-30 18:08:13,440 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:08:13,441 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:08:13,457 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-10-30 18:08:13,512 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:08:13,513 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:08:13,598 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:08:13,599 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:08:13,649 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/main HTTP/11" 200 1920
+2024-10-30 18:08:13,674 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:08:13,675 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:08:13,753 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/discussions?p=0 HTTP/11" 200 1434
+2024-10-30 18:08:13,861 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 18:08:13,881 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/refs%2Fpr%2F3 HTTP/11" 200 2885
+2024-10-30 18:08:13,983 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/11" 404 0
+2024-10-30 18:08:14,154 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/11" 302 0
+2024-10-30 18:08:21,598 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:08:21,600 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:08:21,682 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:08:21,684 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:08:21,686 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/main HTTP/11" 200 1920
+2024-10-30 18:08:21,760 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:08:21,761 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:08:21,786 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/discussions?p=0 HTTP/11" 200 1434
+2024-10-30 18:08:21,838 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:08:21,839 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:08:21,895 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/refs%2Fpr%2F3 HTTP/11" 200 2885
+2024-10-30 18:08:22,001 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 18:08:22,042 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/11" 404 0
+2024-10-30 18:08:22,247 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/11" 302 0
+2024-10-30 18:08:32,023 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:08:32,024 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:08:32,044 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-10-30 18:08:32,099 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:08:32,100 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:08:32,180 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:08:32,181 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:08:32,257 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:08:32,258 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:08:32,475 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 18:08:40,741 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:08:40,743 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:08:40,788 - DEBUG - https://safetensors-convert.hf.space:443 "GET /call/run/e38cc63f85b04502a1a4c1b5739a1961 HTTP/11" 200 None
+2024-10-30 18:08:40,790 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2024-10-30 18:08:40,846 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:08:40,848 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:08:40,918 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/main HTTP/11" 200 1920
+2024-10-30 18:08:40,987 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:08:40,989 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:08:41,021 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/discussions?p=0 HTTP/11" 200 1434
+2024-10-30 18:08:41,067 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:08:41,068 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:08:41,145 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/refs%2Fpr%2F3 HTTP/11" 200 2885
+2024-10-30 18:08:41,193 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 18:08:41,247 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/11" 404 0
+2024-10-30 18:08:41,354 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/11" 302 0
+2024-10-30 18:08:48,140 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:08:48,142 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:08:48,251 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:08:48,253 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:08:48,256 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/main HTTP/11" 200 1920
+2024-10-30 18:08:48,385 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/discussions?p=0 HTTP/11" 200 1434
+2024-10-30 18:08:48,390 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:08:48,394 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:08:48,473 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:08:48,475 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:08:48,489 - DEBUG - https://huggingface.co:443 "GET /api/models/microsoft/graphcodebert-base/commits/refs%2Fpr%2F3 HTTP/11" 200 2885
+2024-10-30 18:08:48,523 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 18:08:48,613 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors.index.json HTTP/11" 404 0
+2024-10-30 18:08:48,719 - DEBUG - https://huggingface.co:443 "HEAD /microsoft/graphcodebert-base/resolve/refs%2Fpr%2F3/model.safetensors HTTP/11" 302 0
+2024-10-30 18:08:51,257 - INFO - Graph created and compiled with memory checkpointer.
+2024-10-30 18:08:51,262 - DEBUG - Filtered messages: ['hi']
+2024-10-30 18:08:51,263 - INFO - Added system message: You are a helpful coding assistant with access to documentation about LangGraph and LangChain.
+2024-10-30 18:08:51,282 - DEBUG - Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'content': 'You are a helpful coding assistant with access to documentation about LangGraph and LangChain.', 'role': 'system'}, {'content': 'hi', 'role': 'user'}], 'model': 'gpt-4-0125-preview', 'n': 1, 'stream': True, 'temperature': 0.0, 'tools': [{'type': 'function', 'function': {'name': 'retrieve_docs', 'description': 'Retrieves documents based on the provided query and returns a ToolMessage.\n\nArgs:\n    query (str): The search query for retrieving documents.\n\nReturns:\n    ToolMessage: A message containing the retrieved document content.', 'parameters': {'properties': {'query': {'type': 'string'}}, 'required': ['query'], 'type': 'object'}}}]}}
+2024-10-30 18:08:51,284 - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=None socket_options=None
+2024-10-30 18:08:51,414 - DEBUG - connect_tcp.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x7f3b22937700>
+2024-10-30 18:08:51,414 - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x7f3b23e8f7c0> server_hostname='api.openai.com' timeout=None
+2024-10-30 18:08:51,463 - DEBUG - start_tls.complete return_value=<httpcore._backends.anyio.AnyIOStream object at 0x7f3b22937190>
+2024-10-30 18:08:51,464 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2024-10-30 18:08:51,464 - DEBUG - send_request_headers.complete
+2024-10-30 18:08:51,464 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2024-10-30 18:08:51,465 - DEBUG - send_request_body.complete
+2024-10-30 18:08:51,465 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2024-10-30 18:08:52,245 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Wed, 30 Oct 2024 22:08:52 GMT'), (b'Content-Type', b'text/event-stream; charset=utf-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-6mqwgmpqixetpcxbmd3dnosa'), (b'openai-processing-ms', b'443'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'500'), (b'x-ratelimit-limit-tokens', b'450000'), (b'x-ratelimit-remaining-requests', b'499'), (b'x-ratelimit-remaining-tokens', b'449957'), (b'x-ratelimit-reset-requests', b'120ms'), (b'x-ratelimit-reset-tokens', b'5ms'), (b'x-request-id', b'req_dfa4fff4801cbbd9c65afb724c5e1c6a'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=2UtAxj0BF9twYfBjaOoXujhAj8Fd7kon69Ovm4I6wYc-1730326132-1.0.1.1-tZ9AHx6WCHe2JTwzoprQ4iw.EBkIvm88npWHK75A8YPQgT5hbBnJ8ckGe9OMSE2m6IehskJp76PKqjBV44I48w; path=/; expires=Wed, 30-Oct-24 22:38:52 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=3B0k9YsZPDTuMcRHRfCVkRRrvZJ0RnevsD6_IIRaDqs-1730326132095-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'8daeb9f1ce9725a0-MIA'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2024-10-30 18:08:52,246 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 18:08:52,246 - DEBUG - HTTP Request: POST https://api.openai.com/v1/chat/completions "200 OK"
+2024-10-30 18:08:52,247 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2024-10-30 18:08:52,665 - DEBUG - receive_response_body.complete
+2024-10-30 18:08:52,665 - DEBUG - response_closed.started
+2024-10-30 18:08:52,666 - DEBUG - response_closed.complete
+2024-10-30 18:08:52,667 - INFO - AIMessage generated: Hello! How can I assist you today?, tool calls: []
+2024-10-30 18:08:52,668 - DEBUG - Last message in state: Hello! How can I assist you today?, type: AIMessage
+2024-10-30 18:08:52,669 - INFO - No tool call detected; ending execution.
+2024-10-30 18:08:52,671 - DEBUG - Raw Message from LangChain: content='Hello! How can I assist you today?' additional_kwargs={} response_metadata={'finish_reason': 'stop', 'model_name': 'gpt-4-0125-preview'} id='run-97711f8d-fc77-498a-a7e5-0a18c99c92db-0'
+2024-10-30 18:08:52,671 - INFO - Structured Response: {'node': 'agent', 'message': {'content': 'Hello! How can I assist you today?', 'type': 'AIMessage', 'additional_kwargs': {'type': 'AIMessage'}}}
+2024-10-30 18:08:53,816 - INFO - Graph created and compiled with memory checkpointer.
+2024-10-30 18:08:53,820 - DEBUG - Filtered messages: ['hi', 'Hello! How can I assist you today?', 'what are the different types of langgraph streaming?']
+2024-10-30 18:08:53,821 - INFO - Added system message: You are a helpful coding assistant with access to documentation about LangGraph and LangChain.
+2024-10-30 18:08:53,836 - DEBUG - Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'content': 'You are a helpful coding assistant with access to documentation about LangGraph and LangChain.', 'role': 'system'}, {'content': 'hi', 'role': 'user'}, {'content': 'Hello! How can I assist you today?', 'role': 'assistant'}, {'content': 'what are the different types of langgraph streaming?', 'role': 'user'}], 'model': 'gpt-4-0125-preview', 'n': 1, 'stream': True, 'temperature': 0.0, 'tools': [{'type': 'function', 'function': {'name': 'retrieve_docs', 'description': 'Retrieves documents based on the provided query and returns a ToolMessage.\n\nArgs:\n    query (str): The search query for retrieving documents.\n\nReturns:\n    ToolMessage: A message containing the retrieved document content.', 'parameters': {'properties': {'query': {'type': 'string'}}, 'required': ['query'], 'type': 'object'}}}]}}
+2024-10-30 18:08:53,837 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2024-10-30 18:08:53,838 - DEBUG - send_request_headers.complete
+2024-10-30 18:08:53,838 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2024-10-30 18:08:53,839 - DEBUG - send_request_body.complete
+2024-10-30 18:08:53,839 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2024-10-30 18:08:54,783 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Wed, 30 Oct 2024 22:08:54 GMT'), (b'Content-Type', b'text/event-stream; charset=utf-8'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-6mqwgmpqixetpcxbmd3dnosa'), (b'openai-processing-ms', b'703'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'500'), (b'x-ratelimit-limit-tokens', b'450000'), (b'x-ratelimit-remaining-requests', b'499'), (b'x-ratelimit-remaining-tokens', b'449933'), (b'x-ratelimit-reset-requests', b'120ms'), (b'x-ratelimit-reset-tokens', b'8ms'), (b'x-request-id', b'req_9648190887581c632340c5bf64a56a94'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'8daeba009ce125a0-MIA'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2024-10-30 18:08:54,784 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-30 18:08:54,784 - DEBUG - HTTP Request: POST https://api.openai.com/v1/chat/completions "200 OK"
+2024-10-30 18:08:54,784 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2024-10-30 18:08:55,069 - DEBUG - receive_response_body.complete
+2024-10-30 18:08:55,070 - DEBUG - response_closed.started
+2024-10-30 18:08:55,070 - DEBUG - response_closed.complete
+2024-10-30 18:08:55,071 - INFO - AIMessage generated: , tool calls: [{'name': 'retrieve_docs', 'args': {'query': 'LangGraph streaming types'}, 'id': 'call_kSMm9vMUmE4aT3WbjUUop8lZ', 'type': 'tool_call'}]
+2024-10-30 18:08:55,296 - INFO - Retrieving documents for query: LangGraph streaming types
+2024-10-30 18:08:55,519 - DEBUG - Starting component PersistentLocalHnswSegment
+2024-10-30 18:08:55,540 - ERROR - Error in stream_agent_response: 'Document' object has no attribute 'content'
+2024-10-30 18:08:55,646 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/11" 200 15
+2024-10-30 18:12:04,807 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:12:04,817 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:12:04,957 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:12:04,958 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:12:05,056 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:12:05,057 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
+2024-10-30 18:12:05,192 - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2024-10-30 18:12:05,193 - DEBUG - load_verify_locations cafile='/home/crisipo/agentz/.venv/lib/python3.10/site-packages/certifi/cacert.pem'
